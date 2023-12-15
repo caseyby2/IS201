@@ -26,7 +26,7 @@ body {
     padding-left: 150px;
 }
 .ci {
-    background-image: url("/From\ Scratch\ Section/rainbow.jpg");
+    background-image: url("/IS201/From\ Scratch\ Section/rainbow.jpg");
 }
 .block1 {
     z-index: 1; position: absolute; top: 4800px; background-color: black; width: 250px; height: 70px; padding-right: 300px; border: solid 20px; border-color: greenyellow;
